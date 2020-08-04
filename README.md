@@ -1,10 +1,10 @@
 <!-- BADGES -->
 <p align="center">
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/jvitormf/nlw2-proffys?color=green">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/jvitormf/nlw2-proffys">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/jvitormf/nlw2-proffys">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/jvitormf/nlw2-proffys">
-  <img alt="GitHub" src="https://img.shields.io/github/license/jvitormf/nlw2-proffys">
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/jvitormf/nlw2-proffy?color=green">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/jvitormf/nlw2-proffy">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/jvitormf/nlw2-proffy">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/jvitormf/nlw2-proffy">
+  <img alt="GitHub" src="https://img.shields.io/github/license/jvitormf/nlw2-proffy">
   <a href="https://www.linkedin.com/in/jvitormf/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555">
   </a>
@@ -13,7 +13,7 @@
 
 <!-- PROJECT LOGO -->
 <p align="center">
-  <a href="https://github.com/jvitormf/nlw1-ecoleta">
+  <a href="https://github.com/jvitormf/nlw2-proffy">
      <img src=".github/nlw.svg" alt="Logo">
   </a>
 
@@ -42,37 +42,28 @@
 # :boom: About The Project
 
 <!-- Project image -->
-<img src=".github/home.png" alt="Ecoleta">
+<img src=".github/Home.png" alt="Proffy">
 
 
 ## Description
-Ecoleta it's an app to connect people to companies that collect organic or inorganic waste such as cooking oil, batteries, electronics, etc. The idea is based on the international environment week.
-
-### The app has the following features:
-* Companies will be able to:
-  * Fill a form to register its location and contact info in order to be available for the users;
-* Users will be able to:
-  * Inform their location in order to locate the companies nearby;
-  * Filter by type of waste;
-  * See the information about the company selected;
+Proffy it's an app for people to exchange knowledge! You can be a teacher in your expertise area or a student!
 
 # :gear: Built With
   ## Tools
   * [VSCode](https://code.visualstudio.com/)
-  * [Insomnia](https://insomnia.rest/)
 
   ## Technologies
   * [Typescript](https://www.typescriptlang.org/)
-  * [NPM](https://www.npmjs.com/)
   * [Node.js](https://nodejs.org/)
   * [React](https://reactjs.org/)
   * [React Native](https://reactnative.dev/)
-  * [Expo](https://expo.io/)
 
   [:arrow_up: Back to top](#table-of-Contents)
 
 # :fireworks: Layout
-Click [here](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=0%3A1) to see the web and mobile layout of this app.
+* Click [here](https://www.figma.com/file/28bgQyKQ60R5YPmIunQ4IM/Proffy-Web-Copy) to see the web layout of this app.
+
+* Click [here](https://www.figma.com/file/QjCkv7yLU1ZAVUb302PWGS/Proffy-Mobile-Copy) to see the mobile layout of this app.
 
   [:arrow_up: Back to top](#table-of-Contents)
 
@@ -86,6 +77,7 @@ To get a local copy up and running follow these simple steps.
 ## :clipboard: Prerequisites
 
 * Node.js - [Install guide](https://nodejs.org/en/download/package-manager/)
+* Yarn - [Guia de instalação](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
 
 [:arrow_up: Back to top](#table-of-Contents)
 
@@ -93,23 +85,23 @@ To get a local copy up and running follow these simple steps.
 Run the commands below to install and run the app.
   ```sh
     #Clone the project
-    git clone https://github.com/jvitormf/nlw1-ecoleta
+    git clone https://github.com/jvitormf/nlw2-proffy
   ```
 
-  ```sh
+  <!-- ```sh
     #Go to server folder
-    cd nlw1-ecoleta/server
+    cd nlw2-proffy/server
 
     #Install dependencies
     yarn
 
     #Start the server
     yarn dev
-   ```
+   ``` -->
 
   ```sh
     #Go to web folder
-    cd nlw1-ecoleta/web
+    cd nlw2-proffy/web
 
     #Install dependencies
     yarn
