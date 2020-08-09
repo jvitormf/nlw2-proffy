@@ -51,12 +51,14 @@ Proffy it's an app for people to exchange knowledge! You can be a teacher in you
 # :gear: Built With
   ## Tools
   * [VSCode](https://code.visualstudio.com/)
+  * [Insomnia](https://insomnia.rest/download/)
 
   ## Technologies
   * [Typescript](https://www.typescriptlang.org/)
   * [Node.js](https://nodejs.org/)
   * [React](https://reactjs.org/)
   * [React Native](https://reactnative.dev/)
+  * [Expo](https://expo.io/)
 
   [:arrow_up: Back to top](#table-of-Contents)
 
@@ -77,7 +79,8 @@ To get a local copy up and running follow these simple steps.
 ## :clipboard: Prerequisites
 
 * Node.js - [Install guide](https://nodejs.org/en/download/package-manager/)
-* Yarn - [Guia de instalação](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
+* Yarn - [Install guide](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
+* Expo - [Install guide](https://expo.io/learn)
 
 [:arrow_up: Back to top](#table-of-Contents)
 
@@ -88,7 +91,7 @@ Run the commands below to install and run the app.
     git clone https://github.com/jvitormf/nlw2-proffy
   ```
 
-  <!-- ```sh
+  ```sh
     #Go to server folder
     cd nlw2-proffy/server
 
@@ -96,12 +99,23 @@ Run the commands below to install and run the app.
     yarn
 
     #Start the server
-    yarn dev
-   ``` -->
+    yarn start
+   ```
 
   ```sh
     #Go to web folder
     cd nlw2-proffy/web
+
+    #Install dependencies
+    yarn
+
+    #Install dependencies
+    yarn start
+   ```
+
+  ```sh
+    #Go to web mobile
+    cd nlw2-proffy/mobile
 
     #Install dependencies
     yarn
@@ -155,6 +169,6 @@ LinkedIn - <https://www.linkedin.com/in/jvitormf/>
 # :exclamation: Acknowledgements
 
 * [Next Level Week](http://nextlevelweek.com/)
-* [Rocketseat]()
+* [Rocketseat](https://rocketseat.com.br/)
 
 [:arrow_up: Back to top](#table-of-Contents)
