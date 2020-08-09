@@ -65,7 +65,7 @@ Proffy it's an app for people to exchange knowledge! You can be a teacher in you
 
 * Click [here](https://www.figma.com/file/QjCkv7yLU1ZAVUb302PWGS/Proffy-Mobile-Copy) to see the mobile layout of this app.
 
-  [:arrow_up: Back to top](#table-of-Contents)
+[:arrow_up: Back to top](#table-of-Contents)
 
 <!-- GETTING STARTED -->
 # :rocket: Getting Started
